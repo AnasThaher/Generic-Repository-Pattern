@@ -1,0 +1,11 @@
+{
+  "name": "repo-pattern-ts",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "scripts": {
+    "start": "tsc && node dist/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
